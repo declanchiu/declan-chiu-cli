@@ -5,7 +5,7 @@
     "main": "index.js",
     "type": "module",
     "bin": {
-        "ka": "dist/index.js"
+        "dc": "dist/index.js"
     },
     "scripts": {
         "dev": "esno ./src/index.ts",
