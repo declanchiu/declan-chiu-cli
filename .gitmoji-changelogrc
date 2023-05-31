@@ -1,0 +1,45 @@
+{
+  "project": {
+    "name": "ka-cli",
+    "description": "ka 团队使用的 cli 工具",
+    "version": "2.0.0"
+  },
+  "commitMapping": [
+    {
+      "group": "added",
+      "label": "新增功能",
+      "emojis": [
+        "sparkles"
+      ]
+    },
+    {
+      "group": "changed",
+      "label": "逻辑变更",
+      "emojis": [
+        "recycle"
+      ]
+    },
+    {
+      "group": "removed",
+      "label": "废弃功能",
+      "emojis": [
+        "heavy_minus_sign",
+        "wastebasket"
+      ]
+    },
+    {
+      "group": "fixed",
+      "label": "修复缺陷",
+      "emojis": [
+        "bug",
+        "rotating_light",
+        "ambulance"
+      ]
+    },
+    {
+      "group": "misc",
+      "label": "杂项",
+      "emojis": []
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+[
+  {
+    "emoji": "🎨",
+    "entity": "&#x1f3a8;",
+    "code": ":art:",
+    "description": "UI 相关文件和样式相关的文件的代码提交",
+    "name": "style",
+    "semver": null
+  },
+  {
+    "emoji": "⚡️",
+    "entity": "&#x26a1;",
+    "code": ":zap:",
+    "description": "性能优化或者提高性能的代码提交",
+    "name": "pref",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🐛",
+    "entity": "&#x1f41b;",
+    "code": ":bug:",
+    "description": "修复 bug 或者修复问题",
+    "name": "fix",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🚑️",
+    "entity": "&#128657;",
+    "code": ":ambulance:",
+    "description": "用于生产的紧急修复补丁",
+    "name": "hotfix",
+    "semver": "patch"
+  },
+  {
+    "emoji": "✨",
+    "entity": "&#x2728;",
+    "code": ":sparkles:",
+    "description": "引入新功能或者新模块的代码提交",
+    "name": "feat",
+    "semver": "minor"
+  },
+  {
+    "emoji": "📝",
+    "entity": "&#x1f4dd;",
+    "code": ":memo:",
+    "description": "添加或者更新文档相关",
+    "name": "doc",
+    "semver": null
+  },
+  {
+    "emoji": "🎉",
+    "entity": "&#127881;",
+    "code": ":tada:",
+    "description": "初始化一个项目",
+    "name": "init",
+    "semver": null
+  },
+  {
+    "emoji": "🚨",
+    "entity": "&#x1f6a8;",
+    "code": ":rotating_light:",
+    "description": "修复 linter 的警告",
+    "name": "lint",
+    "semver": null
+  },
+  {
+    "emoji": "🚧",
+    "entity": "&#x1f6a7;",
+    "code": ":construction:",
+    "description": "需要挂起来进行中的工作",
+    "name": "temp",
+    "semver": null
+  },
+  {
+    "emoji": "⬇️",
+    "entity": "⬇️",
+    "code": ":arrow_down:",
+    "description": "降级依赖项",
+    "name": "down",
+    "semver": "patch"
+  },
+  {
+    "emoji": "⬆️",
+    "entity": "⬆️",
+    "code": ":arrow_up:",
+    "description": "升级依赖项",
+    "name": "up",
+    "semver": "patch"
+  },
+  {
+    "emoji": "👷",
+    "entity": "&#x1f477;",
+    "code": ":construction_worker:",
+    "description": "添加或者修改 ci 配置文件",
+    "name": "ci",
+    "semver": null
+  },
+  {
+    "emoji": "♻️",
+    "entity": "&#x267b;",
+    "code": ":recycle:",
+    "description": "重构功能或者修改原有代码逻辑",
+    "name": "refactor",
+    "semver": null
+  },
+  {
+    "emoji": "➕",
+    "entity": "&#10133;",
+    "code": ":heavy_plus_sign:",
+    "description": "添加依赖",
+    "name": "depend",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🔧",
+    "entity": "&#x1f527;",
+    "code": ":wrench:",
+    "description": "配置文件的新增或者修改项目",
+    "name": "config",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🌐",
+    "entity": "&#127760;",
+    "code": ":globe_with_meridians:",
+    "description": "国际化相关",
+    "name": "i8n",
+    "semver": "patch"
+  },
+  {
+    "emoji": "💡",
+    "entity": "&#128161;",
+    "code": ":bulb:",
+    "description": "添加注释解释相关",
+    "name": "comment",
+    "semver": null
+  },
+  {
+    "emoji": "🏗️",
+    "entity": "&#1f3d7;",
+    "code": ":building_construction:",
+    "description": "当前项目架构相关",
+    "name": "scaffold",
+    "semver": null
+  },
+  {
+    "emoji": "⚗️",
+    "entity": "&#128248;",
+    "code": ":alembic:",
+    "description": "功能性实验或者当前提交是实验类提交",
+    "name": "try",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🏷️",
+    "entity": "&#127991;",
+    "code": ":label:",
+    "description": "添加或者修复 ts 类型的变动",
+    "name": "type",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🗑️",
+    "entity": "&#x1F5D1;",
+    "code": ":wastebasket:",
+    "description": "需要清理的代码提交",
+    "name": "clean",
+    "semver": "patch"
+  },
+  {
+    "emoji": "🔬",
+    "entity": "&#x1F9EA;",
+    "code": ":microscope:",
+    "description": "新增测试相关的提交",
+    "name": "test",
+    "semver": null
+  },
+  {
+    "emoji": "🔖",
+    "code": ":bookmark:",
+    "description": "版本提交使用",
+    "name": "version",
+    "semver": null
+  }
+]

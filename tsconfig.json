@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "declaration": true,
+    "skipLibCheck": true,
+    "esModuleInterop": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "module": "ES2020",
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "lib": ["ES2020"],
+    "baseUrl": ".",
+    "paths": {
+      "@/utils/*": ["src/utils/*"],
+      "@/enum/*": ["src/enum/*"],
+      "@/constants/*": ["src/constants/*"],
+    },
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.json"
+, "index.ts"  ],
+  "exclude": ["node_modules"]
+}
